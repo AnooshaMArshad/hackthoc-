@@ -1,0 +1,26 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navebar {
+    margin-left: 570px;
+   
+}
+
+body{
+    background-image: url("./images/mountains-morning-snow-rock-mountain-landscape.png");
+    background-size: cover;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-position: center;
+   
+}
+
+
+.PARAGRAPG{
+    padding-top: 400px;
+}
+
